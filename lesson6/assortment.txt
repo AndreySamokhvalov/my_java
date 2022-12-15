@@ -1,0 +1,8 @@
+1/hp/HP 15-dw11045ur/windows/black/1024/2/2/14.5
+2/apple/Apple MacBook Pro 13/mac/silver/8/2048/8/17.0
+3/asus/ASUS VivoBook 15 OLED K513EA-L13048W/linux/white/512/16/4/15.6
+4/honor/Honor MagicBook 16 R5/no os/grey/1024/16/6/16.1
+5/huawei/HUAWEI MateBook D 15/windows/silver/512/8/4/15.6
+6/xiaomi/Xiaomi RedmiBook 15 JYU4525RU/linux/grey/256/8/2/15.6
+7/thunderobot/Thunderobot 911 Air D (JT0098E06RU)/windows/grey/512/16/6/15.6
+8/lenovo/Lenovo IdeaPad 3 15ITL05 81X800KLUS/windows/bronze/512/8/2/15.6
